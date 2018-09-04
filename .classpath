@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="lib" path="C:/Users/CHT/workspace/qrtt1-jplurk-oauth-1a7e737/src/main/java/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CHT/workspace/qrtt1-jplurk-oauth-1a7e737/src/main/java/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CHT/workspace/qrtt1-jplurk-oauth-1a7e737/src/main/java/scribe-1.3.0.jar" sourcepath="C:/Users/CHT/workspace/qrtt1-jplurk-oauth-1a7e737/src/main/java/scribe-1.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
